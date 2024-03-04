@@ -1,0 +1,23 @@
+.hoo{
+    color: rebeccapurple;
+    text-align: center;
+}
+.tab{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    border: 5px solid rgb(5, 244, 188);
+    font-size: 90px;
+    color: white;
+}
+.p1{
+    color: green;
+    text-align: center;
+}
+.jumbotron{
+    text-align: center;
+}
+.me{
+    text-align: right;
+    color: wheat;
+}
